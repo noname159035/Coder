@@ -30,6 +30,7 @@ def decoder():
     text.insert("0.0", out)
 
 a = 1
+print("привет")
 window = tk.Tk()
 window.title("CODER")
 window.geometry('400x250')
