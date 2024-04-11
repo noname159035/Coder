@@ -29,7 +29,7 @@ def decoder():
         out += chr(int((int(mas[i]) / math.factorial(k - 2)) / k))
     text.insert("0.0", out)
 
-
+a = 1
 window = tk.Tk()
 window.title("CODER")
 window.geometry('400x250')
