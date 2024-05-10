@@ -2,8 +2,8 @@ import tkinter as tk, random, math
 from tkinter import *
 from PIL import ImageTk, Image
 
+# вы находитесь на ветке lesson_1
 # вы находитесь на ветке MASTER
-
 
 def coder():
     k = random.randint(2, 9)
