@@ -5,6 +5,9 @@ from PIL import ImageTk, Image
 # вы находитесь на ветке lesson_1
 # вы находитесь на ветке MASTER
 
+a = 10
+print(a)
+
 def coder():
     k = random.randint(2, 9)
     data = text.get("1.0", tk.END)
