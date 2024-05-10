@@ -5,7 +5,13 @@ from PIL import ImageTk, Image
 # вы находитесь на ветке lesson_1
 # вы находитесь на ветке MASTER
 
+# я нахожусь на ветке lesson_2
+
 a = 10
+print(a)
+
+a = a - 2
+
 print(a)
 
 def coder():
